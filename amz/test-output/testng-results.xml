@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34425" started-at="2019-12-11T11:08:33Z" finished-at="2019-12-11T11:09:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34425" started-at="2019-12-11T11:08:33Z" finished-at="2019-12-11T11:09:07Z">
+      <class name="com.project.logintest.SearchTest">
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.project.logintest.SearchTest@eec5a4a]" name="getdriver" is-config="true" duration-ms="31106" started-at="2019-12-11T16:38:02Z" finished-at="2019-12-11T16:38:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdriver -->
+        <test-method status="PASS" signature="serchProduct()[pri:0, instance:com.project.logintest.SearchTest@eec5a4a]" name="serchProduct" duration-ms="26858" started-at="2019-12-11T16:38:33Z" description="Searh Product" finished-at="2019-12-11T16:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serchProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.logintest.SearchTest@eec5a4a]" name="tearDown" is-config="true" duration-ms="7543" started-at="2019-12-11T16:39:00Z" finished-at="2019-12-11T16:39:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.project.logintest.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
